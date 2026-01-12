@@ -1,4 +1,4 @@
-# Hi, I'm [Illia] 👋
+# Hi, I'm Illia 👋
 
 I am a Frontend Developer in training, focused on building a strong foundation in modern web technologies. 
 
